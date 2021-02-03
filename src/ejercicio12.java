@@ -13,6 +13,14 @@ public class ejercicio12 {
 				System.out.println ("Enhorabuena!");
 				break;
 	    	}
+	    	if(i<3) {
+				System.out.println ("Fallo intento "+i);
+
+	    	}else {
+				System.out.println ("Fallo intento "+i+" se acabaron los intentos");
+				
+	    	}
+			
 		}
 	}
 
